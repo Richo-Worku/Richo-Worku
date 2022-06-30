@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Richo-Worku
+- 👀 I’m interested in problem solving using technologies ...
+- 🌱 I’m currently learning software enginnering at Bahirdar University ... ...
+- 📫 How to reach me ...
+
+<!---
+Richo-Worku/Richo-Worku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
